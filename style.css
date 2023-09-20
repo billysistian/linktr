@@ -37,7 +37,7 @@ body {
   width: 100%;
   height: 100%;
   top: 0px;
-  background-image: url(gac.png);
+  background-image: url(img/gac.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -51,7 +51,7 @@ body {
   width: 100%;
   top: 0px;
   height: 100%;
-  background-image: url(bg-blur.png);
+  background-image: url(img/bg-blur.png);
   background-repeat: repeat;
   opacity: 0.05;
   mix-blend-mode: overlay;
